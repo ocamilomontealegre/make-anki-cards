@@ -1,0 +1,19 @@
+{
+  "name": "make_anki_cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^6.5.0",
+    "node-nlp": "^4.27.0",
+    "spacy": "^0.0.4",
+    "tokenizers": "0.13.3",
+    "wordnet": "^2.0.0",
+    "wordnet-db": "^3.1.14"
+  }
+}
